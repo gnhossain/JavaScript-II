@@ -9,11 +9,7 @@ function closure(){
   function greet(){
     return sentence;
   }
-
- console.log(greet()); 
 }
-
-
 
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
